@@ -1,1 +1,3 @@
-# latent_representation
+# Latent Representation and Probabilistic Modeling
+
+Playground.
